@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Spark world!");
+        System.out.println("Hello Spark Data world!");
     }
 }
